@@ -1,0 +1,6 @@
+@elsatic_kibana_efcore_HostAddress = http://localhost:5069
+
+GET {{elsatic_kibana_efcore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
